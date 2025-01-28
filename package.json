@@ -1,0 +1,32 @@
+{
+  "name": "react-learning",
+  "version": "1.0.0",
+  "description": "this is react learing by Ram",
+  "scripts": {
+    "start": "parcel demo.html",
+    "build": "parcel build demo.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rambabu-b/react-learning.git"
+  },
+  "keywords": [],
+  "author": "Rambabu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rambabu-b/react-learning/issues"
+  },
+  "homepage": "https://github.com/rambabu-b/react-learning#readme",
+  "dependencies": {
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "devDependencies": {
+    "parcel": "^2.13.3",
+    "process": "^0.11.10"
+  },
+  "browserslist": [
+    "last 5 versions"
+  ]
+}
